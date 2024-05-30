@@ -10,10 +10,7 @@ The dataset contains the historical stock prices of Tata Global Beverages from t
 
 Dataset Link: [NSE-TATAGLOBAL.csv](https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv)
 
-## Project Structure
 
-├── README.md
-├── stock_price_prediction.ipynb # Jupyter Notebook with the code
 
 
 ## Requirements
